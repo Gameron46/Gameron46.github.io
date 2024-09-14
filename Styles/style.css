@@ -1,15 +1,5 @@
-body {
-    background-color: lightblue;
-}
-
-#Quiz {
-    font-size:large;
-    margin: auto;
+#Home {
+    margin:auto;
     width: 50%;
     text-align: center;
-    border: 3px solid black;
-}
-
-.answerBox {
-    width: 50px;
 }
